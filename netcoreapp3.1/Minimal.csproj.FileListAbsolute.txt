@@ -1,0 +1,303 @@
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\Minimal.exe
+C:\Users\Administrator\source\repos\Minimal\Minimal\obj\Debug\netcoreapp3.1\Minimal.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Minimal\Minimal\obj\Debug\netcoreapp3.1\Minimal.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\Minimal.deps.json
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\Minimal.runtimeconfig.json
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\Minimal.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\Minimal.dll
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\Minimal.pdb
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\SFML.Audio.dll
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\SFML.Graphics.dll
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\SFML.System.dll
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\SFML.Window.dll
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-audio.so
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-graphics.so
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-system.so
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-window.so
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-audio.so
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-audio.so.2.5
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-audio.so.2.5.1
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-graphics.so
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-graphics.so.2.5
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-system.so
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-system.so.2.5
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-system.so.2.5.1
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-window.so
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-window.so.2.5
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-window.so.2.5.1
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-audio.so
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-graphics.so
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-system.so
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-window.so
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-audio.so
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-audio.so.2.5
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-audio.so.2.5.1
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-graphics.so
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-graphics.so.2.5
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-system.so
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-system.so.2.5
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-system.so.2.5.1
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-window.so
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-window.so.2.5
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-window.so.2.5.1
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-audio.so
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-graphics.so
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-system.so
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-window.so
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so.2.5
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so.2.5.1
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so.2.5
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so.2.5
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so.2.5.1
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so.2.5
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so.2.5.1
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-Audio.dll
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-Graphics.dll
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-System.dll
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-Window.dll
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\openal32.dll
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-Audio.dll
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-Graphics.dll
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-System.dll
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-Window.dll
+C:\Users\Administrator\source\repos\Minimal\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\openal32.dll
+C:\Users\Administrator\source\repos\Minimal\Minimal\obj\Debug\netcoreapp3.1\Minimal.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Minimal\Minimal\obj\Debug\netcoreapp3.1\Minimal.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Minimal\Minimal\obj\Debug\netcoreapp3.1\Minimal.dll
+C:\Users\Administrator\source\repos\Minimal\Minimal\obj\Debug\netcoreapp3.1\Minimal.pdb
+C:\Users\Administrator\source\repos\Minimal\Minimal\obj\Debug\netcoreapp3.1\Minimal.genruntimeconfig.cache
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\Minimal.exe
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\Minimal.deps.json
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\Minimal.runtimeconfig.json
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\Minimal.runtimeconfig.dev.json
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\Minimal.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\Minimal.pdb
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\SFML.Audio.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\SFML.Graphics.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\SFML.System.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\SFML.Window.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-audio.so
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-graphics.so
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-system.so
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-window.so
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-audio.so
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-audio.so.2.5
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-audio.so.2.5.1
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-graphics.so
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-graphics.so.2.5
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-graphics.so.2.5.1
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-system.so
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-system.so.2.5
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-system.so.2.5.1
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-window.so
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-window.so.2.5
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-window.so.2.5.1
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-audio.so
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-graphics.so
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-system.so
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-window.so
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-audio.so
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-audio.so.2.5
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-audio.so.2.5.1
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-graphics.so
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-graphics.so.2.5
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-graphics.so.2.5.1
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-system.so
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-system.so.2.5
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-system.so.2.5.1
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-window.so
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-window.so.2.5
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-window.so.2.5.1
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-audio.so
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-graphics.so
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-system.so
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-window.so
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so.2.5
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so.2.5.1
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so.2.5
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so.2.5.1
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so.2.5
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so.2.5.1
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so.2.5
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so.2.5.1
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-Audio.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-Graphics.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-System.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-Window.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\openal32.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-Audio.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-Graphics.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-System.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-Window.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\openal32.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\obj\Debug\netcoreapp3.1\Minimal.csprojAssemblyReference.cache
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\obj\Debug\netcoreapp3.1\Minimal.csproj.CoreCompileInputs.cache
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\obj\Debug\netcoreapp3.1\Minimal.AssemblyInfoInputs.cache
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\obj\Debug\netcoreapp3.1\Minimal.AssemblyInfo.cs
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\obj\Debug\netcoreapp3.1\Minimal.csproj.CopyComplete
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\obj\Debug\netcoreapp3.1\Minimal.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\obj\Debug\netcoreapp3.1\Minimal.pdb
+D:\Documents\[TCM]\106132 - Programació II\S1-DibujarConSFML\Minimal\obj\Debug\netcoreapp3.1\Minimal.genruntimeconfig.cache
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\obj\Debug\netcoreapp3.1\Minimal.csprojAssemblyReference.cache
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\obj\Debug\netcoreapp3.1\Minimal.csproj.CoreCompileInputs.cache
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\obj\Debug\netcoreapp3.1\Minimal.AssemblyInfoInputs.cache
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\obj\Debug\netcoreapp3.1\Minimal.AssemblyInfo.cs
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\obj\Debug\netcoreapp3.1\Minimal.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\obj\Debug\netcoreapp3.1\Minimal.pdb
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\Minimal.exe
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\Minimal.deps.json
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\Minimal.runtimeconfig.json
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\Minimal.runtimeconfig.dev.json
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\Minimal.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\Minimal.pdb
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\SFML.Audio.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\SFML.Graphics.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\SFML.System.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\SFML.Window.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-audio.so
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-graphics.so
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-system.so
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-window.so
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-audio.so
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-audio.so.2.5
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-audio.so.2.5.1
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-graphics.so
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-graphics.so.2.5
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-graphics.so.2.5.1
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-system.so
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-system.so.2.5
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-system.so.2.5.1
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-window.so
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-window.so.2.5
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-window.so.2.5.1
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-audio.so
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-graphics.so
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-system.so
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-window.so
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-audio.so
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-audio.so.2.5
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-audio.so.2.5.1
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-graphics.so
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-graphics.so.2.5
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-graphics.so.2.5.1
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-system.so
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-system.so.2.5
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-system.so.2.5.1
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-window.so
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-window.so.2.5
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-window.so.2.5.1
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-audio.so
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-graphics.so
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-system.so
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-window.so
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so.2.5
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so.2.5.1
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so.2.5
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so.2.5.1
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so.2.5
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so.2.5.1
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so.2.5
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so.2.5.1
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-Audio.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-Graphics.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-System.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-Window.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\openal32.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-Audio.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-Graphics.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-System.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-Window.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\openal32.dll
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\obj\Debug\netcoreapp3.1\Minimal.csproj.CopyComplete
+D:\Documents\[TCM]\106132 - Programació II\S1-BucleDeJuego\Minimal\obj\Debug\netcoreapp3.1\Minimal.genruntimeconfig.cache
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\Minimal.exe
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\Minimal.deps.json
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\Minimal.runtimeconfig.json
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\Minimal.runtimeconfig.dev.json
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\Minimal.dll
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\Minimal.pdb
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\SFML.Audio.dll
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\SFML.Graphics.dll
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\SFML.System.dll
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\SFML.Window.dll
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-audio.so
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-graphics.so
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-system.so
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-window.so
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-audio.so
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-audio.so.2.5
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-audio.so.2.5.1
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-graphics.so
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-graphics.so.2.5
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-system.so
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-system.so.2.5
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-system.so.2.5.1
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-window.so
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-window.so.2.5
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-window.so.2.5.1
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-audio.so
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-graphics.so
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-system.so
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-window.so
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-audio.so
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-audio.so.2.5
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-audio.so.2.5.1
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-graphics.so
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-graphics.so.2.5
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-system.so
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-system.so.2.5
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-system.so.2.5.1
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-window.so
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-window.so.2.5
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-window.so.2.5.1
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-audio.so
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-graphics.so
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-system.so
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-window.so
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so.2.5
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so.2.5.1
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so.2.5
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so.2.5
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so.2.5.1
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so.2.5
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so.2.5.1
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-Audio.dll
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-Graphics.dll
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-System.dll
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-Window.dll
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\openal32.dll
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-Audio.dll
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-Graphics.dll
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-System.dll
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-Window.dll
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\openal32.dll
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\obj\Debug\netcoreapp3.1\Minimal.csprojAssemblyReference.cache
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\obj\Debug\netcoreapp3.1\Minimal.csproj.CoreCompileInputs.cache
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\obj\Debug\netcoreapp3.1\Minimal.AssemblyInfoInputs.cache
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\obj\Debug\netcoreapp3.1\Minimal.AssemblyInfo.cs
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\obj\Debug\netcoreapp3.1\Minimal.csproj.CopyComplete
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\obj\Debug\netcoreapp3.1\Minimal.dll
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\obj\Debug\netcoreapp3.1\Minimal.pdb
+C:\Users\mserr\Desktop\University\Programació2\Exercicis\S1-BucleDeJuego\Minimal\obj\Debug\netcoreapp3.1\Minimal.genruntimeconfig.cache
